@@ -4,7 +4,7 @@
 <odoo>
 
     <template
-        id="beesdoo_easy_my_cooprules_template"
+        id="beesdoo_easy_my_coop.rules_template"
         name="Become Cooperator (in beesdoo_easy_my_coop)"
         inherit_id="easy_my_coop_website.rules_template"
     >
